@@ -2,13 +2,16 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/gasparaitis"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://x.com/gasparaitisj"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/gasparaitis.bsky.social"
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-linkedin'
   url: 'https://www.linkedin.com/in/gasparaitis/'
-
-- type: email
-  icon: "fas fa-envelope"
